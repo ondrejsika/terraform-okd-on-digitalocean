@@ -21,6 +21,7 @@
 *.tfvars
 !*.EXAMPLE.tfvars
 override.tf
+*.ign
 
 # Infracost
 .infracost
